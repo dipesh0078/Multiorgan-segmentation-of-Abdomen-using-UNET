@@ -26,3 +26,6 @@ This is for SegresNet model with its output
 ![alt](https://github.com/dipesh0078/Multiorgan-segmentation-of-Abdomen-using-UNET-SegResNet/blob/main/training%20and%20testing/SegRestNet%20graph.png)
 
 ![alt](https://github.com/dipesh0078/Multiorgan-segmentation-of-Abdomen-using-UNET-SegResNet/blob/main/training%20and%20testing/SegResNet%20jupyter%20output.png)
+
+## Future work
+The model are trained with small dataset for now due to limitation of GPU. Shortly large dataset will be used to train and the script for training will be provided.
